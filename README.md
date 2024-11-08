@@ -1,5 +1,5 @@
-# HyFea
-HyFea: Winning Solution to Social Media Popularity Prediction for Multimedia Grand Challenge 2020
+# TrendCast
+TrendCast: A Powerful Solution for Social Media Analysis and Popularity Prediction.
 
 
 The directory tree should look like this:
@@ -36,9 +36,7 @@ ${ROOT}
 
 #### 1 Dependencies
 
-1. We have been implemented and tested our code on Ubuntu 16.04.5 with python == 3.6. 
-
-2. Python packages: 
+1. Python packages: 
 
    ```python
    pip install requests beautifulsoup4 scipy Pillow gensim sklearn pandas catboost lightgbm
